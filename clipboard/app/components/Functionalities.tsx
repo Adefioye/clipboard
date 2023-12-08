@@ -3,7 +3,7 @@ import React from "react";
 
 const Functionalities = () => {
   return (
-    <section id="features" className="w-full mb-16 md:mb-32">
+    <section id="features" className="w-full mb-16 md:mb-44">
       <div className="section-container">
         <div className="relative flex flex-col md:flex-row md:space-x-13">
           <div className="md:w-1/2">
