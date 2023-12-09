@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const AccessAnywhere = () => {
   return (
-    <section id="access-anywhere" className="section-container">
+    <section id="access-anywhere" className="section-container my-20">
       <h3>Access Clipboard Anywhere</h3>
       <p className="section-content mb-12 text-xl">
         Whether you’re on the go, or at your computer, you can access all your
