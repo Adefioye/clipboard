@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="flex justify-center items-center">
           <img src={`/images/logo.svg`} alt="logo" className="scale-50" />
         </div>
-        <div className="flex flex-col flex-1 space-y-5 md:flex-row md:space-y-0 md:justify-between md:p-20 text-grayishBlue">
+        <div className="flex flex-col flex-1 space-y-5 md:flex-row md:space-y-0 md:justify-between md:items-center text-grayishBlue">
           <div
             id="footer-menu"
             className="flex flex-col space-y-5 md:flex-row md:space-y-0 md:space-x-20 md:ml-48"
